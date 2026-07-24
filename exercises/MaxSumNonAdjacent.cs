@@ -53,7 +53,7 @@ catch (AssertFailedException e)
 public class MaxSumNonAdjacent
 {
     /// <summary>
-    /// Gets the maximal sum of non-adjacent values in am array.
+    /// Gets the maximal sum of non-adjacent values in an array.
     /// </summary>
     /// <param name="values">The array of values. Never null. Does not contain negative values.</param>
     /// <returns>The maximal sum of non-adjacent values. Zero, if <paramref name="values"/> is null or empty.</returns>
